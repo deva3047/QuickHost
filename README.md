@@ -96,9 +96,9 @@ View system info
 📂 Default Paths
 | Item          | Path                     |
 | ------------- | ------------------------ |
-| Web root      | `/var/www/html/`         |
-| Upload folder | `/var/www/html/uploads/` |
-| Logs          | `logs/visitors.log`      |
+| Web root      |   /var/www/html/         |
+| Upload folder |   /var/www/html/uploads/ |
+| Logs          |   logs/visitors.log      |
 
 
 
