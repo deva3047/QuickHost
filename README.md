@@ -75,15 +75,6 @@ python server.py
 
 
 
-⚙ Termux Installation
-
-pkg update && pkg upgrade
-git clone https://github.com/deva3047/CloudServe.git
-cd SERVER
-python3 server.py
-
-
-
 ▶ Usage
 python server.py
 
